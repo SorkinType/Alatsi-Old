@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i" format="1">
+  <advance width="1261"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <component base="f" xOffset="-5"/>
+    <component base="dotlessi" xOffset="683"/>
+    <component base="dotaccent" xOffset="783"/>
+  </outline>
+</glyph>
