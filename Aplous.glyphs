@@ -1,67 +1,26 @@
 {
 .appVersion = "1143";
-DisplayStrings = (
-"¿",
-"/questiondown.cap",
-"?¿/questiondown.cap",
-"/hryvnia",
-"/infinity",
-"/emptyset",
-"§",
-"^",
-"",
-"/blackSquare",
-"/whiteSquare",
-"/blackDiamond",
-"/whiteDiamond",
-"/Delta/increment",
-"/upWhiteTriangle",
-"/downWhiteTriangle",
-"/rightWhiteTriangle",
-"/leftWhiteTriangle",
-"/leftBlackTriangle",
-"/rightBlackTriangle",
-"/downBlackTriangle",
-"/upBlackTriangle",
-C,
-"G/Gcommaaccent",
-H,
-"/Hbrevebelow",
-"/commaaccent/Gcommaaccent",
-"/OE",
-"/lira",
-"/manat",
-"/rupeeIndian",
-"/ruble",
-"/won",
-"/liraTurkish",
-"/franc",
-"/dong",
-"/dram-arm",
-"£",
-"/notequal",
-"/zeroinferior",
-"",
-"/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior",
-"H/twoinferior O"
-);
 classes = (
 {
 automatic = 1;
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dz Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Delta Omega";
 name = Uppercase;
+},
+{
+code = "zero one two three four five six seven eight nine";
+name = figures;
+},
+{
+code = "zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
+name = numerators;
+},
+{
+code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
+name = denominators;
 }
 );
 copyright = "Copyright (c) 2011-2018, Sorkin Type Co (www.sorkintype.com)\012with Reserved Font Name \"Aplous\"";
 customParameters = (
-{
-name = macintoshFONDName;
-value = "Aplous ST Regular";
-},
-{
-name = description;
-value = "Aplous' Art Deco inspired forms offer a distictive, hopefull and energetic feeling.";
-},
 {
 name = openTypeNameLicense;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
@@ -69,14 +28,6 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = openTypeNameLicenseURL;
 value = "http://scripts.sil.org/OFL";
-},
-{
-name = openTypeNameUniqueID;
-value = "SpyrosZevelakis: Aplous: 2018";
-},
-{
-name = openTypeNameVersion;
-value = "Version 1.003";
 },
 {
 name = codePageRanges;
@@ -128,7 +79,7 @@ name = year;
 value = 2018;
 }
 );
-date = "2018-05-15 15:18:22 +0000";
+date = "2018-05-25 18:32:19 +0000";
 designer = "Spyros Zevalakis, Eben Sorkin";
 designerURL = www.sorkintype.com;
 disablesNiceNames = 1;
@@ -157,11 +108,11 @@ code = "script latn;\012language CAT;\012sub l periodcentered' l by periodcenter
 name = locl;
 },
 {
-code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;";
 name = subs;
 },
 {
-code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;";
 name = sinf;
 },
 {
@@ -180,8 +131,7 @@ code = "sub zero by zero.dnom;\012sub one by one.dnom;\012sub two by two.dnom;\0
 name = dnom;
 },
 {
-automatic = 1;
-code = "lookup FRAC {\012	sub slash by fraction;\012} FRAC;\012lookup UP {\012	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];\012} UP;\012lookup DOWN {\012	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012} DOWN;\012";
+code = " lookup FractionBar {\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            @figures\012            slash;\012        ignore sub slash\012            @figures\012            slash';\012        ignore sub slash'\012            @figures\012            slash;\012        sub @figures slash' @figures by fraction;\012   } FractionBar;\012\012   lookup Numerator1 {\012        sub @figures'\012        fraction by @numerators;\012   } Numerator1;\012\012   lookup Numerator2 {\012        sub @figures'\012        @numerators\012        fraction by @numerators;\012   } Numerator2;\012\012   lookup Numerator3 {\012        sub @figures'\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator3;\012\012   lookup Numerator4 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator4;\012\012   lookup Numerator5 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator5;\012\012   lookup Numerator6 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator6;\012\012   lookup Numerator7 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator7;\012\012   lookup Numerator8 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator8;\012\012   lookup Numerator9 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator9;\012\012   lookup Numerator10 {\012        sub @figures'\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        @numerators\012        fraction by @numerators;\012   } Numerator10;\012\012   lookup Denominator {\012        sub [fraction @denominators]\012        @figures' by @denominators;\012   } Denominator;\012\012   sub @figures space' @numerators by thinspace;\012";
 name = frac;
 },
 {
@@ -233,6 +183,11 @@ name = salt;
 automatic = 1;
 code = "sub a by a.ss01;\012sub aacute by aacute.ss01;\012sub abreve by abreve.ss01;\012sub abreveacute by abreveacute.ss01;\012sub abrevedotbelow by abrevedotbelow.ss01;\012sub abrevegrave by abrevegrave.ss01;\012sub abrevehookabove by abrevehookabove.ss01;\012sub abrevetilde by abrevetilde.ss01;\012sub acaron by acaron.ss01;\012sub acircumflex by acircumflex.ss01;\012sub acircumflexacute by acircumflexacute.ss01;\012sub acircumflexdotbelow by acircumflexdotbelow.ss01;\012sub acircumflexgrave by acircumflexgrave.ss01;\012sub acircumflexhookabove by acircumflexhookabove.ss01;\012sub acircumflextilde by acircumflextilde.ss01;\012sub adieresis by adieresis.ss01;\012sub adotbelow by adotbelow.ss01;\012sub agrave by agrave.ss01;\012sub ahookabove by ahookabove.ss01;\012sub amacron by amacron.ss01;\012sub aogonek by aogonek.ss01;\012sub aring by aring.ss01;\012sub atilde by atilde.ss01;\012";
 name = ss01;
+},
+{
+automatic = 1;
+code = "pos @Uppercase <5 0 10 0>;\012";
+name = cpsp;
 }
 );
 fontMaster = (
@@ -20154,32 +20109,6 @@ leftKerningGroup = zero;
 leftMetricsKey = zero;
 rightKerningGroup = zero;
 rightMetricsKey = zero;
-},
-{
-glyphname = zero.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 498;
-}
-);
-leftKerningGroup = zero.numr;
-rightKerningGroup = zero.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
 },
 {
 glyphname = zeroinferior;
