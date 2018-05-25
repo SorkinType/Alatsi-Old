@@ -3,7 +3,7 @@ Aplous by Sorkin Type
 
 Aplous is an original typeface designed by Spyros Zevelakis.
 
-It supports Windows 1252, Mac Roman, Google Plus, Google Pro, Plus Optional, and Pro optional glyph sets, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages.
+It supports Windows 1252, Mac Roman, Google Core, Google Plus, Google Pro, Plus Optional, and Pro optional glyph sets, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages.
 
 License
 -------
