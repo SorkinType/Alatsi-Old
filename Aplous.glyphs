@@ -39,7 +39,11 @@ H,
 "/dong",
 "/dram-arm",
 "£",
-"/notequal"
+"/notequal",
+"/zeroinferior",
+"",
+"/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior",
+"H/twoinferior O"
 );
 classes = (
 {
@@ -153,13 +157,11 @@ code = "script latn;\012language CAT;\012sub l periodcentered' l by periodcenter
 name = locl;
 },
 {
-automatic = 1;
-code = "sub zero by zero.subs;\012sub one by one.subs;\012sub two by two.subs;\012sub three by three.subs;\012sub four by four.subs;\012sub five by five.subs;\012sub six by six.subs;\012sub seven by seven.subs;\012sub eight by eight.subs;\012sub nine by nine.subs;\012";
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
 name = subs;
 },
 {
-automatic = 1;
-code = "sub zero by zero.sinf;\012sub one by one.sinf;\012sub two by two.sinf;\012sub three by three.sinf;\012sub four by four.sinf;\012sub five by five.sinf;\012sub six by six.sinf;\012sub seven by seven.sinf;\012sub eight by eight.sinf;\012sub nine by nine.sinf;\012";
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
 name = sinf;
 },
 {
@@ -18855,156 +18857,6 @@ rightKerningGroup = zero.op;
 rightMetricsKey = zero;
 },
 {
-glyphname = zero.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = zero.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 498;
-}
-);
-},
-{
-glyphname = one.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = one.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 271;
-}
-);
-},
-{
-glyphname = two.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = two.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 450;
-}
-);
-},
-{
-glyphname = three.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = three.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 420;
-}
-);
-},
-{
-glyphname = four.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = four.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 436;
-}
-);
-},
-{
-glyphname = five.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = five.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 429;
-}
-);
-},
-{
-glyphname = six.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = six.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 482;
-}
-);
-},
-{
-glyphname = seven.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = seven.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 393;
-}
-);
-},
-{
-glyphname = eight.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = eight.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 492;
-}
-);
-},
-{
-glyphname = nine.sinf;
-lastChange = "2018-05-24 19:23:14 +0000";
-layers = (
-{
-components = (
-{
-name = nine.subs;
-}
-);
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 482;
-}
-);
-},
-{
 glyphname = zero.tf;
 lastChange = "2018-05-25 04:59:42 +0000";
 layers = (
@@ -20330,238 +20182,174 @@ com.typemytype.robofont.mark = (
 };
 },
 {
-glyphname = one.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = zeroinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = one.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = zero.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
+}
+);
+layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
+width = 498;
+}
+);
+unicode = 2080;
+},
+{
+glyphname = oneinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
+layers = (
+{
+components = (
+{
+name = one.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 271;
 }
 );
-leftKerningGroup = one.numr;
-rightKerningGroup = one.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2081;
 },
 {
-glyphname = two.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = twoinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = two.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = two.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 450;
 }
 );
-leftKerningGroup = two.numr;
-rightKerningGroup = two.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2082;
 },
 {
-glyphname = three.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = threeinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = three.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = three.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 420;
 }
 );
-leftKerningGroup = three.numr;
-rightKerningGroup = three.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2083;
 },
 {
-glyphname = four.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = fourinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = four.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = four.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 436;
 }
 );
-leftKerningGroup = four.numr;
-rightKerningGroup = four.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2084;
 },
 {
-glyphname = five.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = fiveinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = five.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = five.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 429;
 }
 );
-leftKerningGroup = five.numr;
-rightKerningGroup = five.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2085;
 },
 {
-glyphname = six.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = sixinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = six.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = six.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 482;
 }
 );
-leftKerningGroup = six.numr;
-rightKerningGroup = six.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2086;
 },
 {
-glyphname = seven.subs;
-lastChange = "2018-05-25 14:25:38 +0000";
+glyphname = seveninferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = seven.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 393;
 }
 );
-leftKerningGroup = seven.numr;
-rightKerningGroup = seven.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2087;
 },
 {
-glyphname = eight.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = eightinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = eight.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 492;
 }
 );
-leftKerningGroup = eight.numr;
-rightKerningGroup = eight.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2088;
 },
 {
-glyphname = nine.subs;
-lastChange = "2018-05-24 19:23:14 +0000";
+glyphname = nineinferior;
+lastChange = "2018-05-25 18:15:23 +0000";
 layers = (
 {
 components = (
 {
-name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, 260}";
+name = nine.subs;
+transform = "{1, 0, 0, 1, 0, -400}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 482;
 }
 );
-leftKerningGroup = nine.numr;
-rightKerningGroup = nine.numr;
-userData = {
-com.typemytype.robofont.mark = (
-0.967,
-0.6,
-1,
-1
-);
-};
+unicode = 2089;
 },
 {
 glyphname = zero.dnom;
