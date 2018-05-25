@@ -1,5 +1,9 @@
 {
 .appVersion = "1143";
+DisplayStrings = (
+"µ",
+"/Ohm"
+);
 classes = (
 {
 automatic = 1;
@@ -292,7 +296,7 @@ xHeight = 498;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2018-05-25 05:58:14 +0000";
+lastChange = "2018-05-25 19:54:44 +0000";
 layers = (
 {
 anchors = (
@@ -1096,7 +1100,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = AE;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:38:58 +0000";
 layers = (
 {
 anchors = (
@@ -1156,7 +1160,7 @@ nodes = (
 width = 839;
 }
 );
-leftKerningGroup = A;
+leftKerningGroup = AE;
 rightKerningGroup = E;
 rightMetricsKey = E;
 unicode = 00C6;
@@ -1285,7 +1289,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = C;
-lastChange = "2018-05-25 16:39:45 +0000";
+lastChange = "2018-05-25 19:45:20 +0000";
 layers = (
 {
 anchors = (
@@ -1531,7 +1535,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = D;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:45:35 +0000";
 layers = (
 {
 anchors = (
@@ -2558,7 +2562,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = G;
-lastChange = "2018-05-25 16:40:18 +0000";
+lastChange = "2018-05-25 19:45:59 +0000";
 layers = (
 {
 anchors = (
@@ -3468,7 +3472,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = J;
-lastChange = "2018-05-25 05:46:17 +0000";
+lastChange = "2018-05-25 19:46:15 +0000";
 layers = (
 {
 anchors = (
@@ -5510,7 +5514,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = P;
-lastChange = "2018-05-25 05:37:10 +0000";
+lastChange = "2018-05-25 19:46:36 +0000";
 layers = (
 {
 anchors = (
@@ -5634,7 +5638,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Q;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:38:44 +0000";
 layers = (
 {
 anchors = (
@@ -5917,7 +5921,7 @@ unicode = 1E5E;
 },
 {
 glyphname = S;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:46:52 +0000";
 layers = (
 {
 anchors = (
@@ -6486,7 +6490,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = T;
-lastChange = "2018-05-25 05:57:50 +0000";
+lastChange = "2018-05-25 19:47:11 +0000";
 layers = (
 {
 anchors = (
@@ -6698,7 +6702,7 @@ unicode = 1E6E;
 },
 {
 glyphname = U;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:47:32 +0000";
 layers = (
 {
 anchors = (
@@ -7534,7 +7538,7 @@ unicode = 1E78;
 {
 color = 4;
 glyphname = V;
-lastChange = "2018-05-25 05:58:01 +0000";
+lastChange = "2018-05-25 19:47:53 +0000";
 layers = (
 {
 anchors = (
@@ -7578,7 +7582,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = W;
-lastChange = "2018-05-25 05:58:03 +0000";
+lastChange = "2018-05-25 19:48:24 +0000";
 layers = (
 {
 anchors = (
@@ -7758,7 +7762,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = X;
-lastChange = "2018-05-25 05:47:01 +0000";
+lastChange = "2018-05-25 19:49:39 +0000";
 layers = (
 {
 anchors = (
@@ -7808,7 +7812,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Y;
-lastChange = "2018-05-25 05:58:08 +0000";
+lastChange = "2018-05-25 19:50:17 +0000";
 layers = (
 {
 anchors = (
@@ -8092,7 +8096,7 @@ unicode = 1EF8;
 },
 {
 glyphname = Z;
-lastChange = "2018-05-25 05:47:19 +0000";
+lastChange = "2018-05-25 19:50:39 +0000";
 layers = (
 {
 anchors = (
@@ -8253,7 +8257,7 @@ unicode = 1E92;
 {
 color = 4;
 glyphname = a;
-lastChange = "2018-05-25 04:37:44 +0000";
+lastChange = "2018-05-25 19:41:33 +0000";
 layers = (
 {
 anchors = (
@@ -8377,7 +8381,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = aacute;
-lastChange = "2018-05-25 05:27:09 +0000";
+lastChange = "2018-05-25 19:57:08 +0000";
 layers = (
 {
 components = (
@@ -9274,7 +9278,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = c;
-lastChange = "2018-05-25 05:50:04 +0000";
+lastChange = "2018-05-25 19:50:58 +0000";
 layers = (
 {
 anchors = (
@@ -9851,7 +9855,7 @@ unicode = 1E0F;
 },
 {
 glyphname = dzcaron;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 20:06:22 +0000";
 layers = (
 {
 components = (
@@ -9860,11 +9864,11 @@ name = d;
 },
 {
 name = zcaron;
-transform = "{1, 0, 0, 1, 567, 0}";
+transform = "{1, 0, 0, 1, 507, 0}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 1011;
+width = 951;
 }
 );
 leftKerningGroup = o;
@@ -10577,7 +10581,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = f;
-lastChange = "2018-05-25 05:56:40 +0000";
+lastChange = "2018-05-25 19:43:57 +0000";
 layers = (
 {
 anchors = (
@@ -12163,7 +12167,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = m;
-lastChange = "2018-05-25 04:30:45 +0000";
+lastChange = "2018-05-25 19:56:50 +0000";
 layers = (
 {
 anchors = (
@@ -12572,7 +12576,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2018-05-25 05:47:49 +0000";
+lastChange = "2018-05-25 19:56:31 +0000";
 layers = (
 {
 anchors = (
@@ -14201,7 +14205,7 @@ unicode = 1E5F;
 },
 {
 glyphname = s;
-lastChange = "2018-05-25 04:31:40 +0000";
+lastChange = "2018-05-25 19:59:05 +0000";
 layers = (
 {
 anchors = (
@@ -14638,7 +14642,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = t;
-lastChange = "2018-05-25 15:10:59 +0000";
+lastChange = "2018-05-25 19:56:59 +0000";
 layers = (
 {
 anchors = (
@@ -14884,7 +14888,7 @@ unicode = 1E6F;
 },
 {
 glyphname = u;
-lastChange = "2018-05-25 04:32:21 +0000";
+lastChange = "2018-05-25 19:59:16 +0000";
 layers = (
 {
 anchors = (
@@ -15649,7 +15653,7 @@ unicode = 1E79;
 },
 {
 glyphname = v;
-lastChange = "2018-05-25 05:57:08 +0000";
+lastChange = "2018-05-25 19:59:22 +0000";
 layers = (
 {
 anchors = (
@@ -15693,7 +15697,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = w;
-lastChange = "2018-05-25 05:57:17 +0000";
+lastChange = "2018-05-25 19:53:34 +0000";
 layers = (
 {
 anchors = (
@@ -16236,7 +16240,7 @@ unicode = 017A;
 },
 {
 glyphname = zcaron;
-lastChange = "2018-05-25 05:27:09 +0000";
+lastChange = "2018-05-25 19:57:17 +0000";
 layers = (
 {
 components = (
@@ -17591,7 +17595,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = four;
-lastChange = "2018-05-25 05:11:08 +0000";
+lastChange = "2018-05-25 20:03:06 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
@@ -20112,173 +20116,273 @@ rightMetricsKey = zero;
 },
 {
 glyphname = zeroinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = zero.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = zero.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 498;
 }
 );
+leftKerningGroup = zero.numr;
+rightKerningGroup = zero.numr;
 unicode = 2080;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = oneinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = one.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = one.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 271;
 }
 );
+leftKerningGroup = one.numr;
+rightKerningGroup = one.numr;
 unicode = 2081;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = twoinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = two.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = two.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 450;
 }
 );
+leftKerningGroup = two.numr;
+rightKerningGroup = two.numr;
 unicode = 2082;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = threeinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = three.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = three.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 420;
 }
 );
+leftKerningGroup = three.numr;
+rightKerningGroup = three.numr;
 unicode = 2083;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = fourinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = four.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = four.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 436;
 }
 );
+leftKerningGroup = four.numr;
+rightKerningGroup = four.numr;
 unicode = 2084;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = fiveinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = five.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = five.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 429;
 }
 );
+leftKerningGroup = five.numr;
+rightKerningGroup = five.numr;
 unicode = 2085;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = sixinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = six.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = six.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 482;
 }
 );
+leftKerningGroup = six.numr;
+rightKerningGroup = six.numr;
 unicode = 2086;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = seveninferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = seven.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = seven.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 393;
 }
 );
+leftKerningGroup = seven.numr;
+rightKerningGroup = seven.numr;
 unicode = 2087;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = eightinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = eight.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = eight.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 492;
 }
 );
+leftKerningGroup = eight.numr;
+rightKerningGroup = eight.numr;
 unicode = 2088;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = nineinferior;
-lastChange = "2018-05-25 18:15:23 +0000";
+lastChange = "2018-05-25 19:32:37 +0000";
 layers = (
 {
 components = (
 {
-name = nine.subs;
-transform = "{1, 0, 0, 1, 0, -400}";
+name = nine.dnom;
+transform = "{1, 0, 0, 1, 0, -140}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 482;
 }
 );
+leftKerningGroup = nine.numr;
+rightKerningGroup = nine.numr;
 unicode = 2089;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
 },
 {
 glyphname = zero.dnom;
@@ -21759,7 +21863,7 @@ unicode = 2152;
 },
 {
 glyphname = period;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:58:46 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
@@ -21791,7 +21895,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = comma;
-lastChange = "2018-05-25 05:09:48 +0000";
+lastChange = "2018-05-25 19:58:22 +0000";
 layers = (
 {
 background = {
@@ -21842,7 +21946,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = colon;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 19:58:40 +0000";
 layers = (
 {
 components = (
@@ -21858,7 +21962,7 @@ layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 214;
 }
 );
-leftKerningGroup = period;
+leftKerningGroup = semicolon;
 rightKerningGroup = period;
 unicode = 003A;
 userData = {
@@ -21872,7 +21976,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = semicolon;
-lastChange = "2018-05-25 05:53:47 +0000";
+lastChange = "2018-05-25 19:58:35 +0000";
 layers = (
 {
 components = (
@@ -21888,7 +21992,7 @@ layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
 width = 214;
 }
 );
-leftKerningGroup = period;
+leftKerningGroup = semicolon;
 rightKerningGroup = period;
 unicode = 003B;
 userData = {
@@ -22015,7 +22119,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = question;
-lastChange = "2018-05-25 16:27:57 +0000";
+lastChange = "2018-05-25 20:00:25 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
@@ -22023,43 +22127,43 @@ paths = (
 {
 closed = 1;
 nodes = (
-"292 0 LINE",
-"292 129 LINE",
-"179 129 LINE",
-"179 0 LINE"
+"245 0 LINE",
+"245 129 LINE",
+"132 129 LINE",
+"132 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"118 588 LINE",
-"135 621 OFFCURVE",
-"177 663 OFFCURVE",
-"240 663 CURVE SMOOTH",
-"293 663 OFFCURVE",
-"331 636 OFFCURVE",
-"331 579 CURVE SMOOTH",
-"331 452 OFFCURVE",
-"173 463 OFFCURVE",
-"173 290 CURVE SMOOTH",
-"173 270 OFFCURVE",
-"175 251 OFFCURVE",
-"180 225 CURVE",
-"284 225 LINE",
-"283 255 LINE",
-"283 441 OFFCURVE",
-"461 422 OFFCURVE",
-"461 582 CURVE SMOOTH",
-"461 697 OFFCURVE",
-"393 773 OFFCURVE",
-"251 777 CURVE SMOOTH",
-"155 780 OFFCURVE",
-"82 731 OFFCURVE",
-"47 688 CURVE"
+"71 588 LINE",
+"88 621 OFFCURVE",
+"130 663 OFFCURVE",
+"193 663 CURVE SMOOTH",
+"246 663 OFFCURVE",
+"284 636 OFFCURVE",
+"284 579 CURVE SMOOTH",
+"284 452 OFFCURVE",
+"126 463 OFFCURVE",
+"126 290 CURVE SMOOTH",
+"126 270 OFFCURVE",
+"128 251 OFFCURVE",
+"133 225 CURVE",
+"237 225 LINE",
+"236 255 LINE",
+"236 441 OFFCURVE",
+"414 422 OFFCURVE",
+"414 582 CURVE SMOOTH",
+"414 697 OFFCURVE",
+"346 773 OFFCURVE",
+"204 777 CURVE SMOOTH",
+"108 780 OFFCURVE",
+"35 731 OFFCURVE",
+"0 688 CURVE"
 );
 }
 );
-width = 481;
+width = 434;
 }
 );
 leftKerningGroup = question;
@@ -22077,7 +22181,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = questiondown;
-lastChange = "2018-05-25 16:27:57 +0000";
+lastChange = "2018-05-25 19:43:17 +0000";
 layers = (
 {
 background = {
@@ -22163,7 +22267,7 @@ nodes = (
 );
 }
 );
-width = 481;
+width = 434;
 }
 );
 leftKerningGroup = questiondown;
@@ -22463,7 +22567,7 @@ rightKerningGroup = exclamdown.cap;
 {
 color = 4;
 glyphname = questiondown.cap;
-lastChange = "2018-05-25 16:27:57 +0000";
+lastChange = "2018-05-25 19:45:06 +0000";
 layers = (
 {
 background = {
@@ -22549,7 +22653,7 @@ nodes = (
 );
 }
 );
-width = 481;
+width = 434;
 }
 );
 leftKerningGroup = questiondown.cap;
@@ -23509,7 +23613,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quotedblright;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 20:01:11 +0000";
 layers = (
 {
 components = (
@@ -23594,7 +23698,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quoteright;
-lastChange = "2018-05-25 05:49:30 +0000";
+lastChange = "2018-05-25 20:02:30 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
@@ -23805,7 +23909,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quotesingle;
-lastChange = "2018-05-25 05:49:35 +0000";
+lastChange = "2018-05-25 19:54:57 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
@@ -27270,41 +27374,18 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+color = 4;
 glyphname = micro;
-lastChange = "2018-05-24 19:23:14 +0000";
+lastChange = "2018-05-25 20:06:57 +0000";
 layers = (
 {
-layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"185 -250 LINE",
-"161 71 LINE",
-"179 29 OFFCURVE",
-"215 -11 OFFCURVE",
-"269 -11 CURVE SMOOTH",
-"316 -11 OFFCURVE",
-"351 19 OFFCURVE",
-"362 71 CURVE",
-"360 0 LINE",
-"491 0 LINE",
-"491 492 LINE",
-"355 492 LINE",
-"355 186 LINE",
-"355 94 OFFCURVE",
-"318 86 OFFCURVE",
-"276 86 CURVE SMOOTH",
-"229 86 OFFCURVE",
-"198 138 OFFCURVE",
-"198 208 CURVE",
-"198 492 LINE",
-"59 492 LINE",
-"59 -250 LINE"
-);
+name = mu;
 }
 );
-width = 550;
+layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
+width = 561;
 }
 );
 leftKerningGroup = micro;
@@ -33591,8 +33672,10 @@ kerning = {
 "@MMK_R_W" = -25;
 "@MMK_R_X" = 10;
 "@MMK_R_Y" = -45;
+"@MMK_R_question" = -50;
+"@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -15;
-"@MMK_R_w" = -15;
+"@MMK_R_w" = -10;
 "@MMK_R_x" = 10;
 "@MMK_R_y" = -15;
 };
@@ -33609,12 +33692,16 @@ kerning = {
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -45;
+"@MMK_R_AE" = -110;
 "@MMK_R_J" = -50;
 "@MMK_R_T" = 10;
 "@MMK_R_V" = 10;
 "@MMK_R_W" = 10;
 "@MMK_R_X" = 10;
 "@MMK_R_Y" = 15;
+"@MMK_R_a" = -10;
+"@MMK_R_period" = -60;
+"@MMK_R_question" = 20;
 };
 "@MMK_L_G" = {
 "@MMK_R_hyphen" = 10;
@@ -33638,8 +33725,9 @@ kerning = {
 "@MMK_R_W" = -40;
 "@MMK_R_Y" = -45;
 "@MMK_R_hyphen" = -30;
-"@MMK_R_period" = -198;
+"@MMK_R_period" = 0;
 "@MMK_R_question" = -70;
+"@MMK_R_quotesingle" = -90;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -15;
@@ -33657,6 +33745,7 @@ kerning = {
 "@MMK_R_A" = -40;
 "@MMK_R_J" = -20;
 "@MMK_R_O" = 10;
+"@MMK_R_period" = -90;
 "@MMK_R_v" = 25;
 "@MMK_R_w" = 10;
 "@MMK_R_y" = 10;
@@ -33669,6 +33758,7 @@ kerning = {
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -35;
+"@MMK_R_AE" = -120;
 "@MMK_R_J" = -30;
 "@MMK_R_O" = -10;
 "@MMK_R_W" = 10;
@@ -33677,6 +33767,8 @@ kerning = {
 "@MMK_R_hyphen" = -30;
 "@MMK_R_n" = -45;
 "@MMK_R_o" = -50;
+"@MMK_R_period" = -90;
+"@MMK_R_question" = 20;
 "@MMK_R_s" = -50;
 "@MMK_R_u" = -40;
 "@MMK_R_v" = -30;
@@ -33685,30 +33777,40 @@ kerning = {
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -30;
 };
+"@MMK_L_U" = {
+"@MMK_R_AE" = -30;
+};
 "@MMK_L_V" = {
 "@MMK_R_A" = -45;
+"@MMK_R_AE" = -110;
 "@MMK_R_J" = -35;
 "@MMK_R_O" = -10;
 "@MMK_R_S" = -5;
 "@MMK_R_a" = -40;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_o" = -40;
+"@MMK_R_question" = 30;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -25;
+"@MMK_R_AE" = -110;
 "@MMK_R_J" = -30;
 "@MMK_R_T" = 10;
 "@MMK_R_a" = -35;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_o" = -40;
+"@MMK_R_question" = 30;
 };
 "@MMK_L_X" = {
 "@MMK_R_A" = 10;
 "@MMK_R_J" = 20;
+"@MMK_R_O" = -10;
 "@MMK_R_hyphen" = -20;
+"@MMK_R_question" = 20;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -45;
+"@MMK_R_AE" = -110;
 "@MMK_R_J" = -30;
 "@MMK_R_O" = -15;
 "@MMK_R_T" = 10;
@@ -33717,6 +33819,7 @@ kerning = {
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -55;
 "@MMK_R_p" = -55;
+"@MMK_R_question" = 50;
 "@MMK_R_s" = -30;
 "@MMK_R_u" = -35;
 "@MMK_R_x" = -20;
@@ -33763,6 +33866,9 @@ kerning = {
 "@MMK_L_eight.numr" = {
 "@MMK_R_fraction" = -10;
 };
+"@MMK_L_euro" = {
+"@MMK_R_four" = -40;
+};
 "@MMK_L_f" = {
 "@MMK_R_a" = -5;
 "@MMK_R_ampersand" = 10;
@@ -33775,8 +33881,9 @@ kerning = {
 "@MMK_R_ninesuperior" = 20;
 "@MMK_R_o" = -30;
 "@MMK_R_parenright" = 40;
+"@MMK_R_period" = -60;
 "@MMK_R_question" = 35;
-"@MMK_R_quotedblleft" = 20;
+"@MMK_R_quotedblleft" = 30;
 "@MMK_R_quotesingle" = 20;
 "@MMK_R_sevensuperior" = 30;
 "@MMK_R_sixsuperior" = 20;
@@ -33805,6 +33912,7 @@ idieresisacute = 10;
 "@MMK_R_T" = -50;
 "@MMK_R_V" = -30;
 "@MMK_R_Y" = -50;
+"@MMK_R_question" = -30;
 };
 "@MMK_L_germandbls" = {
 "@MMK_R_parenright" = 20;
@@ -33824,9 +33932,23 @@ idieresisacute = 10;
 "@MMK_R_w" = 20;
 "@MMK_R_y" = 20;
 };
+"@MMK_L_i" = {
+"@MMK_R_question" = 10;
+};
 "@MMK_L_k" = {
 "@MMK_R_T" = -30;
 "@MMK_R_hyphen" = -20;
+};
+"@MMK_L_l" = {
+"@MMK_R_a" = -70;
+"@MMK_R_n" = -70;
+"@MMK_R_o" = -90;
+"@MMK_R_period" = -90;
+"@MMK_R_s" = -50;
+"@MMK_R_t" = -30;
+"@MMK_R_u" = -70;
+"@MMK_R_v" = -30;
+"@MMK_R_z" = -60;
 };
 "@MMK_L_lslash" = {
 "@MMK_R_v" = 20;
@@ -33838,6 +33960,7 @@ idieresisacute = 10;
 "@MMK_R_V" = -25;
 "@MMK_R_Y" = -40;
 "@MMK_R_parenright" = -20;
+"@MMK_R_question" = -10;
 };
 "@MMK_L_nine.numr" = {
 "@MMK_R_fraction" = -20;
@@ -33847,6 +33970,7 @@ idieresisacute = 10;
 "@MMK_R_V" = -40;
 "@MMK_R_Y" = -50;
 "@MMK_R_hyphen" = 10;
+"@MMK_R_question" = -30;
 };
 "@MMK_L_onesuperior" = {
 "@MMK_R_fraction" = 30;
@@ -33858,18 +33982,51 @@ idieresisacute = 10;
 };
 "@MMK_L_period" = {
 "@MMK_R_f" = 20;
+"@MMK_R_four" = -40;
 "@MMK_R_o" = 10;
 "@MMK_R_questiondown" = 20;
+"@MMK_R_quotedblleft" = -60;
 };
 "@MMK_L_q" = {
 "@MMK_R_T" = -50;
 };
 "@MMK_L_questiondown" = {
+"@MMK_R_H" = -40;
+"@MMK_R_O" = -40;
+"@MMK_R_S" = -30;
+"@MMK_R_T" = -60;
+"@MMK_R_U" = -50;
+"@MMK_R_V" = -80;
+"@MMK_R_W" = -90;
+"@MMK_R_X" = -30;
+"@MMK_R_Y" = -80;
+"@MMK_R_Z" = -30;
+"@MMK_R_f" = -40;
 "@MMK_R_j" = 5;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -30;
 "@MMK_R_seven" = -70;
+"@MMK_R_t" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -30;
+"@MMK_R_w" = -30;
 };
 "@MMK_L_questiondown.cap" = {
+"@MMK_R_A" = 30;
+"@MMK_R_J" = 40;
+"@MMK_R_O" = -30;
+"@MMK_R_T" = -40;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -50;
+"@MMK_R_W" = -50;
+"@MMK_R_X" = 10;
+"@MMK_R_Y" = -70;
+"@MMK_R_f" = -10;
 "@MMK_R_seven" = -50;
+};
+"@MMK_L_quotesingle" = {
+"@MMK_R_A" = -30;
+"@MMK_R_four" = -70;
 };
 "@MMK_L_r" = {
 "@MMK_R_T" = -50;
@@ -33878,6 +34035,7 @@ idieresisacute = 10;
 "@MMK_L_s" = {
 "@MMK_R_T" = -45;
 "@MMK_R_Y" = -40;
+"@MMK_R_question" = -30;
 };
 "@MMK_L_seven.numr" = {
 "@MMK_R_fraction" = -40;
@@ -33892,14 +34050,19 @@ idieresisacute = 10;
 "@MMK_L_sixsuperior" = {
 "@MMK_R_sevensuperior" = -30;
 };
+"@MMK_L_sterling" = {
+"@MMK_R_four" = -40;
+};
 "@MMK_L_t" = {
 "@MMK_R_T" = -50;
 "@MMK_R_Y" = -20;
 "@MMK_R_hyphen" = -20;
+"@MMK_R_question" = -20;
 };
 "@MMK_L_u" = {
 "@MMK_R_T" = -40;
 "@MMK_R_Y" = -55;
+"@MMK_R_question" = -20;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -15;
@@ -33926,9 +34089,16 @@ idieresisacute = 10;
 "@MMK_R_ampersand" = 5;
 "@MMK_R_hyphen" = 20;
 };
+"@MMK_L_yen" = {
+"@MMK_R_four" = -40;
+};
 "@MMK_L_z" = {
 "@MMK_R_T" = -40;
 "@MMK_R_Y" = -20;
+"@MMK_R_question" = -30;
+};
+tcaron = {
+"@MMK_R_question" = 20;
 };
 };
 };
