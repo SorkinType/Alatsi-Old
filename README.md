@@ -1,9 +1,9 @@
 Aplous by Sorkin Type
 ===========================
 
-Aplous is an original typeface designed .
+Aplous is an original typeface designed by Spyros Zevelakis.
 
-It will support Google Fonts Latin Pro glyph set, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages.
+It supports Windows 1252, Mac Roman, Google Plus, Google Pro, Plus Optional, and Pro optional glyph sets, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages.
 
 License
 -------
@@ -13,22 +13,21 @@ Aplous is available under the SIL Open Font License v1.1, for more details see [
 Contributions
 -------------
 
-The project is being extended by Eben Sorkin @ Sorkin Type
-Original type design made by Spyros Zevelakis
+The project is being extended and refined by Eben Sorkin @ Sorkin Type
 To contribute ideas and feedback, see [https://github.com/EbenSorkin/Aplous](https://github.com/EbenSorkin/Aplous)
 
 
-Source Files - to be added
+Source Files - Glyphs app file
 ------------
 
 ```
 └── sources
-    ├── BUILD.txt	# Contains informations to build the fonts
+    ├── Apluos.glyphs	# Contains all data to build the font
 
 
 ```
 
-Build Instructions - to be added
+Build Instructions - None
 ------------------
 
-To build the fonts see [BUILD.txt]
+To build the fonts use Glyphs App
