@@ -20,7 +20,8 @@ DisplayStrings = (
 "/abrevehookabove.ss01",
 "/abrevetilde.ss01",
 "/a.ss01/acircumflexacute.ss01",
-"/a.ss01"
+"/a.ss01",
+"§"
 );
 classes = (
 {
@@ -28723,7 +28724,7 @@ com.typemytype.robofont.mark = (
 {
 color = 4;
 glyphname = section;
-lastChange = "2018-05-25 16:30:10 +0000";
+lastChange = "2018-05-26 05:23:51 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
@@ -28762,8 +28763,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"432 865 OFFCURVE",
-"381 871 OFFCURVE",
+"432 862 OFFCURVE",
+"391 871 OFFCURVE",
 "341 871 CURVE SMOOTH",
 "234 871 OFFCURVE",
 "105 813 OFFCURVE",
@@ -28784,10 +28785,10 @@ nodes = (
 "227 756 OFFCURVE",
 "290 776 OFFCURVE",
 "341 776 CURVE SMOOTH",
-"375 776 OFFCURVE",
-"426 764 OFFCURVE",
-"441 749 CURVE",
-"464 850 LINE"
+"385 776 OFFCURVE",
+"426 761 OFFCURVE",
+"441 746 CURVE",
+"464 847 LINE"
 );
 }
 );
