@@ -1,4 +1,4 @@
-Aplous by Sorkin Type
+Aplos by Sorkin Type
 ===========================
 
 Aplous is an original typeface designed by Spyros Zevelakis.
@@ -30,4 +30,4 @@ Source Files - Glyphs app file
 Build Instructions - None
 ------------------
 
-To build the fonts use Glyphs App
+To build the font use Glyphs App and export TTF, OTF or other supported file formats.
