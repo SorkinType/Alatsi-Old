@@ -1,7 +1,7 @@
 Alatsi by Sorkin Type
 ===========================
 
-Alatsi is an original typeface designed by [Spyros Zevelakis].(https://www.2xux.com/)
+Alatsi is an original typeface designed by [Spyros Zevelakis](https://www.2xux.com).
 
 It supports Windows 1252, Mac Roman, Google Core, Google Plus, Google Pro, Plus Optional, and Pro optional glyph sets, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages.
 
