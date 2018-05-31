@@ -22,7 +22,7 @@ code = " zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom sev
 name = denominators;
 }
 );
-copyright = "Copyright (c) 2011-2018, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Aplous\"";
+copyright = "Copyright (c) 2011-2018, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Alatsi\"";
 customParameters = (
 {
 name = openTypeNameLicense;
@@ -115,7 +115,7 @@ value = 7;
 },
 {
 name = trademark;
-value = "Aplous is a trademark of Sorkin Type Co.";
+value = "Alatsi is a trademark of Sorkin Type Co.";
 },
 {
 name = year;
@@ -126,7 +126,7 @@ date = "2018-05-30 04:08:44 +0000";
 designer = "Spyros Zevelakis, Eben Sorkin";
 designerURL = www.sorkintype.com;
 disablesNiceNames = 1;
-familyName = Aploss;
+familyName = Alatsi;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;";
@@ -30893,23 +30893,23 @@ instances = (
 customParameters = (
 {
 name = postscriptFontName;
-value = "Aplos-Regular";
+value = "Alatsi-Regular";
 },
 {
 name = postscriptFullName;
-value = "Aplos Regular";
+value = "Alatsi Regular";
 },
 {
 name = styleMapFamilyName;
-value = Aplos;
+value = Alatsi;
 },
 {
 name = preferredFamilyName;
-value = Aplos;
+value = Alatsi;
 },
 {
 name = preferredSubfamilyName;
-value = Regular;
+value = Alatsi;
 }
 );
 instanceInterpolations = {
