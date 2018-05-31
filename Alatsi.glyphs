@@ -1,7 +1,8 @@
 {
 .appVersion = "1146";
 DisplayStrings = (
-Pistol
+Pistol,
+""
 );
 classes = (
 {
@@ -244,101 +245,6 @@ alignmentZones = (
 ascender = 977;
 capHeight = 697;
 customParameters = (
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "Y: 137";
-width = 137;
-},
-{
-horizontal = 1;
-name = "X: 188";
-width = 188;
-},
-{
-horizontal = 1;
-name = "Y: 191";
-width = 191;
-},
-{
-horizontal = 1;
-name = "Y: 206";
-width = 206;
-},
-{
-horizontal = 1;
-name = "Y: 220";
-width = 220;
-},
-{
-horizontal = 1;
-name = "X: 220";
-width = 220;
-},
-{
-horizontal = 1;
-name = "X: 246";
-width = 246;
-},
-{
-horizontal = 1;
-name = "Y: 265";
-width = 265;
-},
-{
-horizontal = 1;
-name = "X: 276";
-width = 276;
-},
-{
-horizontal = 1;
-name = "Y: 426";
-width = 426;
-},
-{
-horizontal = 1;
-name = "128";
-width = 128;
-},
-{
-horizontal = 1;
-name = "129";
-width = 129;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = "T: 977";
-position = 977;
-size = 16;
-},
-{
-name = caps;
-position = 697;
-size = 18;
-},
-{
-name = xhgt;
-position = 498;
-size = 13;
-},
-{
-name = base;
-position = 0;
-size = -18;
-},
-{
-name = "B: -280";
-position = -280;
-size = -16;
-}
-);
-},
 {
 name = typoAscender;
 value = 977;
@@ -22261,11 +22167,11 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2018-05-31 18:37:36 +0000";
 layers = (
 {
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 195;
+width = 190;
 }
 );
 leftKerningGroup = space;
@@ -30909,7 +30815,7 @@ value = Alatsi;
 },
 {
 name = preferredSubfamilyName;
-value = Alatsi;
+value = Regular;
 }
 );
 instanceInterpolations = {
