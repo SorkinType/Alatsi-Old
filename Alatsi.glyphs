@@ -1,7 +1,8 @@
 {
 .appVersion = "1146";
 DisplayStrings = (
-"/ldot"
+"/ldot",
+"/uogonek"
 );
 classes = (
 {
