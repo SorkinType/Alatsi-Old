@@ -1,8 +1,9 @@
 {
-.appVersion = "1146";
+.appVersion = "1230";
 DisplayStrings = (
 "/ldot",
-"/uogonek"
+"/uogonek",
+"/f_f  /f_f_i  /f_f_i_dflt  /f_f_l  /fi  /fl \012ff ffi ff/idotless  ffl fi fl"
 );
 classes = (
 {
@@ -23,7 +24,7 @@ code = " zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom sev
 name = denominators;
 }
 );
-copyright = "Copyright (c) 2011-2018, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Alatsi\"";
+copyright = "Copyright 2019 The Alatsi Project Authors (https://github.com/SorkinType/Alatsi)";
 customParameters = (
 {
 name = openTypeNameLicense;
@@ -289,7 +290,7 @@ value = -59;
 descender = -280;
 guideLines = (
 {
-position = "{233, 333}";
+position = "{325, -138}";
 },
 {
 position = "{695, 709}";
@@ -9617,7 +9618,7 @@ y = 869;
 },
 {
 glyphname = f;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:23:47 +0000";
 layers = (
 {
 anchors = (
@@ -10072,14 +10073,10 @@ unicode = 1E25;
 },
 {
 glyphname = i;
-lastChange = "2018-05-31 17:26:01 +0000";
+lastChange = "2019-08-21 01:19:19 +0000";
 layers = (
 {
 anchors = (
-{
-name = _top;
-position = "{140, 831}";
-},
 {
 name = btm;
 position = "{143, 0}";
@@ -15636,9 +15633,15 @@ rightKerningGroup = n;
 },
 {
 glyphname = f_f;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:23:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{332, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -15658,9 +15661,19 @@ unicode = FB00;
 },
 {
 glyphname = f_f_i;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:20:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{326, 0}";
+},
+{
+name = caret_2;
+position = "{675, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -15668,10 +15681,14 @@ name = f;
 {
 name = f;
 transform = "{1, 0, 0, 1, 349, 0}";
+},
+{
+name = i;
+transform = "{1, 0, 0, 1, 698, 0}";
 }
 );
 layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
-width = 698;
+width = 978;
 }
 );
 leftKerningGroup = f;
@@ -15680,9 +15697,19 @@ unicode = FB03;
 },
 {
 glyphname = f_f_i_dflt;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:21:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{319, 0}";
+},
+{
+name = caret_2;
+position = "{680, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -15705,9 +15732,19 @@ rightKerningGroup = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:21:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{324, 0}";
+},
+{
+name = caret_2;
+position = "{648, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -15731,9 +15768,15 @@ unicode = FB04;
 },
 {
 glyphname = fi;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:21:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{314.5, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -15757,9 +15800,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 01:21:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{334, 0}";
+}
+);
 components = (
 {
 name = f;
