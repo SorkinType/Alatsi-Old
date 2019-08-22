@@ -3,7 +3,8 @@
 DisplayStrings = (
 "/ldot",
 "/uogonek",
-"/f_f  /f_f_i  /f_f_i_dflt  /f_f_l  /fi  /fl \012ff ffi ff/idotless  ffl fi fl"
+"/f_f  /f_f_i  /f_f_i_dflt  /f_f_l  /fi  /fl \012ff ffi ff/idotless  ffl fi fl",
+"/circumflexcomb.case/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde"
 );
 classes = (
 {
@@ -276,7 +277,7 @@ value = 1715;
 },
 {
 name = winDescent;
-value = 330;
+value = 400;
 },
 {
 name = underlineThickness;
@@ -640,7 +641,7 @@ unicode = 1EA6;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2018-05-31 14:40:05 +0000";
+lastChange = "2019-08-21 15:36:32 +0000";
 layers = (
 {
 components = (
@@ -648,7 +649,12 @@ components = (
 name = A;
 },
 {
+alignment = -1;
 name = hookabovecomb.case;
+transform = "{1, 0, 0, 1, 282, 215}";
+},
+{
+name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 282, 0}";
 }
 );
@@ -31570,6 +31576,12 @@ idieresisacute = 10;
 "@MMK_R_o" = -20;
 "@MMK_R_question" = 20;
 };
+"@MMK_L_lcaron" = {
+"@MMK_R_hyphen" = -90;
+"@MMK_R_o" = -110;
+"@MMK_R_period" = -90;
+"@MMK_R_semicolon" = -50;
+};
 "@MMK_L_lslash" = {
 "@MMK_R_v" = 30;
 "@MMK_R_w" = 25;
@@ -31692,6 +31704,12 @@ idieresisacute = 10;
 "@MMK_R_o" = -10;
 "@MMK_R_question" = -20;
 };
+"@MMK_L_tcaron" = {
+"@MMK_R_asterisk" = 30;
+"@MMK_R_question" = 20;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quotesingle" = 30;
+};
 "@MMK_L_u" = {
 "@MMK_R_T" = -40;
 "@MMK_R_W" = -20;
@@ -31742,18 +31760,6 @@ idieresisacute = 10;
 "@MMK_R_T" = -40;
 "@MMK_R_Y" = -20;
 "@MMK_R_question" = -30;
-};
-lcaron = {
-"@MMK_R_hyphen" = -90;
-"@MMK_R_o" = -110;
-"@MMK_R_period" = -90;
-"@MMK_R_semicolon" = -50;
-};
-tcaron = {
-"@MMK_R_asterisk" = 30;
-"@MMK_R_question" = 20;
-"@MMK_R_quoteleft" = 20;
-"@MMK_R_quotesingle" = 30;
 };
 };
 };
