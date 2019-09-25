@@ -31190,6 +31190,15 @@ width = 0;
 );
 leftKerningGroup = circumflexcomb_gravecomb;
 rightKerningGroup = circumflexcomb_gravecomb;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "B61D43DE-5272-4FF4-A680-608B6BF5ED9E";
+width = 600;
+}
+);
 }
 );
 instances = (
